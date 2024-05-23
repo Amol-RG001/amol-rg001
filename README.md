@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol-rg001&label=Profile%20views&color=0e75b6&style=flat" alt="amol-rg001" /> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET, JavaScript, TypeScript, Node.js**
+- 🌱 I’m currently learning **Advanced Java,SpringBoot, DSA, Angular, AWS, Design Pattern**
 
 - 👨‍💻 All of my projects are available at https://smartroncode.netlify.app/
 - [https://amol-rg001.github.io/Portfolio-Project/](https://amol-rg001.github.io/Portfolio-Project/)
