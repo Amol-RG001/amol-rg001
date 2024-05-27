@@ -1,4 +1,4 @@
-//<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="500" width="1200">
+'''<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="500" width="1200">'''
 <h1 align="center">Hi 👋, I'm Amol Gahane</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
