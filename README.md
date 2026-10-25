@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol-rg001&label=Profile%20views&color=0e75b6&style=flat" alt="amol-rg001" /> </p>
 
-- 🌱 I’m currently manage **MES Application Support and Enhancement at Cummins India**
+- 🌱 I manage **MES Application Support and Enhancements** at Cummins India, focusing on root-cause analysis of shop-floor bottlenecks. My Java background and growing expertise in C# help me analyze application logic and quickly identify failure points.
 
 - 👨‍💻 All of my projects are available at https://smartroncode.netlify.app/
 - [https://amol-rg001.github.io/Portfolio-Project/](https://amol-rg001.github.io/Portfolio-Project/)
